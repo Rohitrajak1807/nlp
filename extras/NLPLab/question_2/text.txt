@@ -1,0 +1,5 @@
+This is a dog.
+This is a cat.
+I love my cat.
+I love my dog.
+This is my name.
